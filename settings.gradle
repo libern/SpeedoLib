@@ -1,0 +1,2 @@
+include ':app', ':dynamicfeature', ':libspeedo'
+rootProject.name='SpeedoLib'
